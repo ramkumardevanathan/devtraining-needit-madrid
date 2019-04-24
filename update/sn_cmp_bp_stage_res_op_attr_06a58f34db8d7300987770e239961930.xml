@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_attr">
+    <sn_cmp_bp_stage_res_op_attr action="INSERT_OR_UPDATE">
+        <default_value>${parameter.ci1_DBName}</default_value>
+        <name>DBName</name>
+        <rb_operation_attribute display_value="DBName">ef958b34db8d7300987770e2399619c9</rb_operation_attribute>
+        <stage_resource_operation display_value="ci1.Provision">b1a54f34db8d7300987770e2399619f9</stage_resource_operation>
+        <sys_class_name>sn_cmp_bp_stage_res_op_attr</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:09:06</sys_created_on>
+        <sys_id>06a58f34db8d7300987770e239961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DBName</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_attr_06a58f34db8d7300987770e239961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:06</sys_updated_on>
+        <type_of_map>1</type_of_map>
+        <use_in_operation>true</use_in_operation>
+    </sn_cmp_bp_stage_res_op_attr>
+</record_update>

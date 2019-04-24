@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_bp_blueprint">
+    <sn_cmp_bp_blueprint action="INSERT_OR_UPDATE">
+        <category display_value="Compute">57c0dbd9934b22004a9032bfa67ffb79</category>
+        <cloud_service/>
+        <description/>
+        <layer>1</layer>
+        <name>ci1</name>
+        <sm_checkpoint_id/>
+        <source_sm_checkpoint_id/>
+        <status>2</status>
+        <svc_layer display_value="ci1">18a5cb34db8d7300987770e2399619a5</svc_layer>
+        <sys_class_name>sn_cmp_bp_blueprint</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:08:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c0a5cb34db8d7300987770e23996199f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ci1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_blueprint_c0a5cb34db8d7300987770e23996199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:12</sys_updated_on>
+        <template_id display_value="ci1">fbc34330db8d7300987770e23996190d</template_id>
+        <tlr display_value="ci1 Blueprint Resource">d8a5cb34db8d7300987770e2399619c9</tlr>
+    </sn_cmp_bp_blueprint>
+</record_update>

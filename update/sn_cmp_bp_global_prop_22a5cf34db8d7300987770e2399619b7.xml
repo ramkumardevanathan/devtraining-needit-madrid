@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="ModifySchedule">f1a54f34db8d7300987770e23996194c</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="ScheduleProfile">a6a5cf34db8d7300987770e2399619b6</bp_stage_res_op_attr>
+        <mandatory>true</mandatory>
+        <name>ScheduleProfile</name>
+        <order>40</order>
+        <resource_op_unique_id>7439</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:09:09</sys_created_on>
+        <sys_id>22a5cf34db8d7300987770e2399619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScheduleProfile</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_22a5cf34db8d7300987770e2399619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:09</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>

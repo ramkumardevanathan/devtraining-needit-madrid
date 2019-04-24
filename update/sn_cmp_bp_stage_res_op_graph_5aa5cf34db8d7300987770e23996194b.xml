@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_graph">
+    <sn_cmp_bp_stage_res_op_graph action="INSERT_OR_UPDATE">
+        <blueprint_stage_op display_value="Stop">39a54f34db8d7300987770e23996194e</blueprint_stage_op>
+        <child_operation display_value="Blueprint Container Resource.Stop">92a5cf34db8d7300987770e23996195f</child_operation>
+        <in_degree>0</in_degree>
+        <parent_operation display_value="ci1.Stop">d2a5cf34db8d7300987770e239961949</parent_operation>
+        <status>true</status>
+        <sys_class_name>sn_cmp_bp_stage_res_op_graph</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:09:08</sys_created_on>
+        <sys_id>5aa5cf34db8d7300987770e23996194b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_graph_5aa5cf34db8d7300987770e23996194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:08</sys_updated_on>
+    </sn_cmp_bp_stage_res_op_graph>
+</record_update>

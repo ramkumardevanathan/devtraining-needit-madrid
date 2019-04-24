@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_model">
+    <sn_cmp_bp_stage_model action="INSERT_OR_UPDATE">
+        <blueprint display_value="ci1">c0a5cb34db8d7300987770e23996199f</blueprint>
+        <blueprint_template/>
+        <intent>ServiceNowCloudTemplate:
+  name: ci1
+  layer: Application
+  status: Draft
+  category: Compute
+  deploymentModel:
+    resources:
+    - resource: ci1
+      resourceblock: ServiceNow::ci1
+      host: AWS Datacenter
+    - resource: AWS Datacenter
+      resourceblock: ServiceNow::AWS Datacenter</intent>
+        <stage display_value="Default">a74383b20b2222003ad5c73ef6673a1d</stage>
+        <sys_class_name>sn_cmp_bp_stage_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:09:05</sys_created_on>
+        <sys_id>35a54f34db8d7300987770e239961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_model_35a54f34db8d7300987770e239961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:06</sys_updated_on>
+    </sn_cmp_bp_stage_model>
+</record_update>

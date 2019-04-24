@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_graph">
+    <sn_cmp_bp_stage_res_op_graph action="INSERT_OR_UPDATE">
+        <blueprint_stage_op display_value="Provision">f5a54f34db8d7300987770e239961949</blueprint_stage_op>
+        <child_operation/>
+        <in_degree>0</in_degree>
+        <parent_operation display_value="Blueprint Container Resource.Provision">caa58f34db8d7300987770e23996195c</parent_operation>
+        <status>true</status>
+        <sys_class_name>sn_cmp_bp_stage_res_op_graph</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-24 06:09:07</sys_created_on>
+        <sys_id>caa58f34db8d7300987770e239961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_graph_caa58f34db8d7300987770e239961992</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-24 06:09:07</sys_updated_on>
+    </sn_cmp_bp_stage_res_op_graph>
+</record_update>
